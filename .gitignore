@@ -1,0 +1,5 @@
+*.class
+
+/.idea/.gitignore
+/.idea/runConfigurations.xml
+/.idea/workspace.xml
